@@ -14,7 +14,7 @@ tbd
 ### Schedule: 
 - Wednesday, September 25 2024 
   - Short introductions (1-2 minutes each)
-  - Readings:
+  - Discussion on our working definition of urban data science. Readings:
     - [Urban analytics defined](https://journals.sagepub.com/doi/10.1177/2399808319839494)
     - [Defining urban data science](https://journals.sagepub.com/share/ZRN9UCWSQHPWJHYWBGYY?target=10.1177/2399808319882826)
   - Gauging interest in working group research collaborations
