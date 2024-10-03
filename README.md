@@ -41,10 +41,30 @@ We meet every other week for a presentation from an invited speaker or group mem
        - Include ``expected results'': ideally, what do you expect to find? This will help us understand whether, assuming the research is successful, the project is worth pursuing.
        - (Optional) Include a small bibliography of related work.
     - We will get in breakout rooms and analyze a few selected abstracts. Working group members are encouraged to select aspects of each proposed project that are of interest.
+      
+#### Wednesday, November 6 2024
+  TBD
+     
+#### Wednesday, November 20 2024
+  - Guest speaker: [Wonyoung So](https://wonyoung.so)
+    - Presentation title: TBD
+    - Abstract: TBD
+    - Associated readings: TBD
+
+#### Wednesday, December 4 2024
+  - Guest speakers: [Andrea Vallebueno](https://andreavalleai.com)
+    - Presentation title: TBD
+    - Abstract: TBD
+    - Associated readings: TBD
+        
+#### Wednesday, December 18 2024
+  TBD
 
 ### Invited Speakers: 
 - [Zhi Liu](https://zhiliu724.github.io) (10/09)
 - [Sidhika Balachandar](https://sidhikabalachandar.github.io) (10/09)
+- [Wonyoung So](https://wonyoung.so) (11/20)
+- [Andrea Vallebueno](https://andreavalleai.com) (12/04)
 
 ### Organizers: 
 We welcome involvement in this working group! If you're interested in joining, please reach out to one of the organizers: 
