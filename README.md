@@ -43,7 +43,10 @@ We meet every other week for a presentation from an invited speaker or group mem
     - We will get in breakout rooms and analyze a few selected abstracts. Working group members are encouraged to select aspects of each proposed project that are of interest.
       
 #### Wednesday, November 6 2024
-  TBD
+  - Guest speaker: [AJ Alvero](https://ajalvero.com)
+    - Presentation title: TBD
+    - Abstract: TBD
+    - Associated readings: TBD
      
 #### Wednesday, November 20 2024
   - Guest speaker: [Wonyoung So](https://wonyoung.so)
@@ -58,11 +61,12 @@ We meet every other week for a presentation from an invited speaker or group mem
     - Associated readings: TBD
         
 #### Wednesday, December 18 2024
-  TBD
+  - Working group activity: TBD
 
 ### Invited Speakers: 
 - [Zhi Liu](https://zhiliu724.github.io) (10/09)
 - [Sidhika Balachandar](https://sidhikabalachandar.github.io) (10/09)
+- [AJ Alvero](https://ajalvero.com) (11/06)
 - [Wonyoung So](https://wonyoung.so) (11/20)
 - [Andrea Vallebueno](https://andreavalleai.com) (12/04)
 
