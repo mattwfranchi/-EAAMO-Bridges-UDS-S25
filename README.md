@@ -50,9 +50,9 @@ We meet every other week for a presentation from an invited speaker or group mem
      
 #### Wednesday, November 20 2024
   - Guest speaker: [Wonyoung So](https://wonyoung.so)
-    - Presentation title: TBD
-    - Abstract: TBD
-    - Associated readings: TBD
+    - Presentation title: Reparative Urban Science: Challenging the Myth of Neutrality and Crafting Data-Driven Narratives
+    - Abstract: I offer how urban planning should approach technology within the context of systemic racism, advocating for a reparative approach to address the issues of urban technology perpetuating today’s racial inequality and hindering efforts to redress historical oppression. I identify three mechanisms – formalization, context removal and legitimization, and penalization and extraction – that illustrate how urban technology perpetuates historical inequalities, often penalizing marginalized groups under the pretext of neutrality and fairness. Then, I discuss methodologies of reparative urban science, aiming to use urban technology to challenge race-neutral ideologies and create data-driven narratives for reparations.
+    - Associated readings: [Reparative Urban Science: Challenging the Myth of Neutrality and Crafting Data-Driven Narratives](https://www.tandfonline.com/doi/full/10.1080/14649357.2024.2397017)
 
 #### Wednesday, December 4 2024
   - Guest speakers: [Andrea Vallebueno](https://andreavalleai.com)
