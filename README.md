@@ -44,9 +44,9 @@ We meet every other week for a presentation from an invited speaker or group mem
       
 #### Wednesday, November 6 2024
   - Guest speaker: [AJ Alvero](https://ajalvero.com)
-    - Presentation title: TBD
-    - Abstract: TBD
-    - Associated readings: TBD
+    - Presentation title: Who Do Large Language Models Write Like? A Sociolinguistic Perspective on AI-Generated Texts
+    - Abstract: When large language models (LLMs) generate "human-like text", which humans do they write like? The answer to this question has strong implications for their use as methodological tools across the social sciences, but they also point to new dynamics to consider in important social processes. In this presentation, I will discuss ongoing work that compares the text produced by LLMs with personal statements written by applicants to selective colleges and universities. We use the Linguistic Inquiry and Word Count (LIWC) dictionary to compare stylistic features backed by psychological research and various embedding approaches that are popular in computational social science. Both approaches yielded similar sets of findings: LLM writing style is distinctive from humans but is closer to those with higher social status. Conversely, we also find that LLMs are stylistically narrow but have broad vocabularies. These results helped us formulate two perspectives for future research on the intersection of sociolinguistics, text, and LLMs: the sampling perspective, based on linguistic closeness (in our case, LLMs were closer in their text to higher social status applicants); and the distributional perspective, based on variation in text features (in our case, LLMs had notably distinctive distributions from any group of humans). We hope this work can help spur not just more empirical work but also theoretical work about human language as it compares and interacts with LLMs.
+    - Associated readings: [Large language models, social demography, and hegemony: comparing authorship in human and synthetic text](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00986-7)
      
 #### Wednesday, November 20 2024
   - Guest speaker: [Wonyoung So](https://wonyoung.so)
