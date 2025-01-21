@@ -8,7 +8,11 @@ We meet every other week for a presentation from an invited speaker or group mem
 
 ## Program 
 
-### Schedule: 
+### Spring 2025 Schedule:
+
+TBD
+
+### Fall 2024 Schedule: 
 
 #### Wednesday, September 25 2024 
   - Short introductions (1-2 minutes each)
@@ -54,14 +58,14 @@ We meet every other week for a presentation from an invited speaker or group mem
     - Abstract: I offer how urban planning should approach technology within the context of systemic racism, advocating for a reparative approach to address the issues of urban technology perpetuating today’s racial inequality and hindering efforts to redress historical oppression. I identify three mechanisms – formalization, context removal and legitimization, and penalization and extraction – that illustrate how urban technology perpetuates historical inequalities, often penalizing marginalized groups under the pretext of neutrality and fairness. Then, I discuss methodologies of reparative urban science, aiming to use urban technology to challenge race-neutral ideologies and create data-driven narratives for reparations.
     - Associated readings: [Reparative Urban Science: Challenging the Myth of Neutrality and Crafting Data-Driven Narratives](https://www.tandfonline.com/doi/full/10.1080/14649357.2024.2397017)
 
-#### Wednesday, December 4 2024
+#### Wednesday, December 4 2024 --- CANCELLED
   - Guest speakers: [Andrea Vallebueno](https://andreavalleai.com)
     - Presentation title: TBD
     - Abstract: TBD
     - Associated readings: TBD
         
 #### Wednesday, December 18 2024
-  - Working group activity: TBD
+  - Working group activity: Finding EAAMO-suitable projects in UDS
 
 ### Invited Speakers: 
 - [Zhi Liu](https://zhiliu724.github.io) (10/09)
