@@ -3,15 +3,62 @@ This is the repository for the Urban Data Science & Equitable Cities Working Gro
 
 By 2050, the UN projects that 68% of the population will live in a city. Cities are an increasingly important aspect of daily life, affecting long-term health and access to job opportunities. The use of data to guide decision-making, improve the responsiveness of local government, and reduce inequality has become critical. With the advent of the open data movement for cities, the volume of urban data has exploded. In addition to officially-published open datasets, unique sources of unstructured data, including text and images, are becoming more abundant, providing new opportunities for analyzing urban environments and their occupants. In this EEAMO Bridges working group on urban data science & equity, we host speakers, study papers, and workshop late-stage work relating to the sophisticated computational analysis of urban data, emphasizing topics that both explore and address inequities in urban life. This group began meeting in Summer 2024 as a Cornell reading group on urban data science, incorporating members from information science, computer science, urban planning, sociology, and public policy. 
 
-We meet every other week for a presentation from an invited speaker or group member, followed by sustained discussion. 
+We meet every other week for a presentation from an invited speaker or group member, followed by sustained discussion.
 
+Our current meeting time is **Monday, 12-1pm EST**. Send us a message to be included in regular communications and get the Zoom link.
 
 ## Program 
 
 ### Spring 2025 Schedule:
 
-TBD
+#### Monday, February 10 2025 
+  - Semester overview (~10 minutes)
+  - Guest speaker: [Naveen Raman](https://naveenraman.com)
+    - Presentation title: **Global Rewards in Restless Multi-Armed Bandits**
+    - Abstract: Restless multi-armed bandits (RMAB) extend multi-armed bandits so pulling an arm impacts future states. Despite the success of RMABs, a key limiting assumption is the separability of rewards into a sum across arms. We address this deficiency by proposing restless-multi-armed bandit with global rewards (RMAB-G), a generalization of RMABs to global non-separable rewards. To solve RMAB-G, we develop the Linear- and Shapley-Whittle indices, which extend Whittle indices from RMABs to RMAB-Gs. We prove approximation bounds but also point out how these indices could fail when reward functions are highly non-linear. To overcome this, we propose two sets of adaptive policies: the first computes indices iteratively, and the second combines indices with Monte-Carlo Tree Search (MCTS). Empirically, we demonstrate that our proposed policies outperform baselines and index-based policies with synthetic data and real-world data from food rescue.
+    - Associated readings:
+      - [Global Rewards in Restless Multi-Armed Bandits](https://arxiv.org/abs/2406.00738)
+  - Discussion on food rescue in urban settings.
+    - Recommended additonal readings:
+      - [Improving Efficiency of Volunteer-Based Food Rescue Operations]([https://www.sciencedirect.com/science/article/pii/S0049089X16301764](https://ojs.aaai.org/index.php/AAAI/article/view/7051))
 
+#### Monday, February 24 2025 
+  TBD
+  
+#### Monday, March 10 2025 
+  TBD
+
+#### Monday, March 24 2025 
+  TBD
+
+#### Monday, April 7 2025 
+  TBD
+
+#### Monday, April 21 2025 
+  TBD
+
+#### Monday, May 5 2025 
+  TBD
+  
+#### Monday, May 19 2025 
+  TBD
+
+
+### Invited Speakers: 
+- [Zhi Liu](https://zhiliu724.github.io) (10/09)
+- [Sidhika Balachandar](https://sidhikabalachandar.github.io) (10/09)
+- [AJ Alvero](https://ajalvero.com) (11/06)
+- [Wonyoung So](https://wonyoung.so) (11/20)
+- [Andrea Vallebueno](https://andreavalleai.com) (12/04)
+- [Naveen Raman](https://naveenraman.com) (02/10)
+
+### Organizers: 
+We welcome involvement in this working group! If you're interested in joining, please reach out to one of the organizers: 
+- Jennah Gosciak (jrg377 AT cornell dot edu) 
+- Matt Franchi (mwf62 AT cornell dot edu)
+- Gabriel Agostini (gs665 AT cornell dot edu)
+  
+-------------------------------------------------------------
 ### Fall 2024 Schedule: 
 
 #### Wednesday, September 25 2024 
@@ -60,22 +107,6 @@ TBD
 
 #### Wednesday, December 4 2024 --- CANCELLED
   - Guest speakers: [Andrea Vallebueno](https://andreavalleai.com)
-    - Presentation title: TBD
-    - Abstract: TBD
-    - Associated readings: TBD
         
 #### Wednesday, December 18 2024
   - Working group activity: Finding EAAMO-suitable projects in UDS
-
-### Invited Speakers: 
-- [Zhi Liu](https://zhiliu724.github.io) (10/09)
-- [Sidhika Balachandar](https://sidhikabalachandar.github.io) (10/09)
-- [AJ Alvero](https://ajalvero.com) (11/06)
-- [Wonyoung So](https://wonyoung.so) (11/20)
-- [Andrea Vallebueno](https://andreavalleai.com) (12/04)
-
-### Organizers: 
-We welcome involvement in this working group! If you're interested in joining, please reach out to one of the organizers: 
-- Jennah Gosciak (jrg377 AT cornell dot edu) 
-- Matt Franchi (mwf62 AT cornell dot edu)
-- Gabriel Agostini (gs665 AT cornell dot edu)
