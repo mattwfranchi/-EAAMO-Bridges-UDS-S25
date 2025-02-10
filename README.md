@@ -7,40 +7,6 @@ We meet every other week for a presentation from an invited speaker or group mem
 
 Our current meeting time is **Monday, 12-1pm EST**. Send us a message to be included in regular communications and get the Zoom link.
 
-<form action="https://www.list.cornell.edu/subscribe/subscribe.tml" method="POST">
-        <table border=0 cellspacing=0 cellpadding=3>
-            <tr>
-                <td align="right">
-                    <font size=1>Email address: </font>
-                </td>
-                <td>
-                    <input type="text" name="email" value="" SIZE=10>
-                </td>
-                <td>
-                <input type="submit" class="btn" value="subscribe" title="subscribe" alt="subscribe"  name="subscribe" align="left">
-                </td>
-            </tr>
-        <tr>
-            <td align="right">
-                <font size=1><I>(required)</I> Your name: </font>
-            </td>
-            <td>
-                <INPUT TYPE="text" NAME="name" VALUE="" SIZE=10 MAXLENGTH=100>
-            </td>
-        </tr>
-        </table>
-    <input type="hidden" name="list" value="urban-data-science-rg-l"><input type="hidden" name="lists" value="urban-data-science-rg-l" >
-<input type="hidden" name="demographics" value="" >
-<input type="hidden" name="name_required" value="T" >
-<input type="hidden" name="pw_required" value="" >
-<input type="hidden" name="confirm" value="one" >
-<input type="hidden" name="showconfirm" value="T" >
-<input type="hidden" name="url" value="https://github.com/mattwfranchi/EAAMO-Bridges-UDS-S25" >
-<input type="hidden" name="appendsubinfotourl" value="" >
-<input type="hidden" name="secx" value="880cb564" >
-
-</form>
-
 ## Program 
 
 ### Spring 2025 Schedule:
